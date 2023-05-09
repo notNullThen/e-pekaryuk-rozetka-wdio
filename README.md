@@ -6,7 +6,7 @@ For preparing test environment:
 ```bash
     npm install
 
-For running Rozetka test:
+### For running Rozetka test:
 
 ```bash
     npm run rozetkaTest
