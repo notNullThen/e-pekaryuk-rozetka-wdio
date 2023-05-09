@@ -11,6 +11,6 @@ Default browser: Google Chrome
 ```bash
     npm run rozetkaTest
     # Wait till test ends
-    allure generate allure-report/
+    allure generate allure-results/
     allure open
 ```
