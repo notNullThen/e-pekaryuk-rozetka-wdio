@@ -5,6 +5,7 @@ For preparing test environment:
 
 ```bash
     npm install
+```
 
 ### For running Rozetka test:
 
@@ -13,3 +14,4 @@ For preparing test environment:
     # Wait till test ends
     allure generate allure-report/
     allure open
+```
