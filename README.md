@@ -1,7 +1,6 @@
 # Usage
-
-### Default browser: Google Chrome
-For preparing test environment:
+Default browser: Google Chrome
+### For preparing test environment:
 
 ```bash
     npm install
